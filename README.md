@@ -50,3 +50,5 @@ yarn add styled-components.
 yarn add @types/styled-components -D (Tipagem).
 
 ![Teste Imagem](public/favicon.png)
+
+yarn add miragejs 
