@@ -53,4 +53,10 @@ yarn add @types/styled-components -D (Tipagem).
 
 yarn add miragejs 
 
-yarn add axios
+yarn add axios 
+
+yarn add react-modal (modal pre-prontos)
+
+yarn add @types/react-modal -D (typescript do modal)
+
+Aula: Chapter II - 01 - 04 - 01
