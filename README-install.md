@@ -59,4 +59,4 @@ yarn add react-modal (modal pre-prontos)
 
 yarn add @types/react-modal -D (typescript do modal)
 
-Aula: Chapter II - 01 - 04 - 02
+Aula: Chapter II - 01 - 04 - 03
