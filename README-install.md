@@ -59,6 +59,6 @@ yarn add react-modal (modal pre-prontos)
 
 yarn add @types/react-modal -D (typescript do modal)
 
-yarn add polished (funcao helpers para modificar cores)
+yarn add polished (função helpers para modificar cores)
 
 Aula: Chapter II - 01 - 04 - 04
