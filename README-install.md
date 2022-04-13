@@ -61,4 +61,4 @@ yarn add @types/react-modal -D (typescript do modal)
 
 yarn add polished (função helpers para modificar cores)
 
-Aula: Chapter II - 01 - 04 - 07
+Aula: Chapter II - 01 - 04 - 08
