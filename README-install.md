@@ -51,7 +51,7 @@ yarn add @types/styled-components -D (Tipagem).
 
 ![Teste Imagem](public/favicon.png)
 
-yarn add miragejs 
+yarn add miragejs   
 
 yarn add axios 
 
@@ -61,4 +61,4 @@ yarn add @types/react-modal -D (typescript do modal)
 
 yarn add polished (função helpers para modificar cores)
 
-Aula: Chapter II - 01 - 04 - 09
+Aula: Chapter II - 01 - 04 - 10
